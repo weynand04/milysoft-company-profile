@@ -1,0 +1,26 @@
+Merge branch 'main' of https://github.com/weynand04/xoniagency
+
+# Conflicts:
+#	README.md
+#	app/Providers/AppServiceProvider.php
+#	composer.json
+#	composer.lock
+#	database/seeders/DatabaseSeeder.php
+#	package-lock.json
+#	package.json
+#	resources/views/components/head.blade.php
+#	resources/views/components/layout.blade.php
+#	resources/views/index.blade.php
+#	resources/views/kontak.blade.php
+#	resources/views/layanan.blade.php
+#	resources/views/tentang.blade.php
+#	routes/auth.php
+#	routes/web.php
+#	tailwind.config.js
+#	tests/Feature/Auth/AuthenticationTest.php
+#	tests/Feature/Auth/EmailVerificationTest.php
+#	tests/Feature/Auth/PasswordConfirmationTest.php
+#	tests/Feature/Auth/PasswordResetTest.php
+#	tests/Feature/Auth/PasswordUpdateTest.php
+#	tests/Feature/Auth/RegistrationTest.php
+#	tests/Feature/ProfileTest.php
